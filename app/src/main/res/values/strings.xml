@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Compose Homework</string>
+    <string name="task1_title">Задание 1: Переписывание XML на Compose</string>
+    <string name="task2_title">Задание 2: Добавление состояния</string>
+    <string name="task3_title">Задание 3: ViewModel и состояние</string>
+    <string name="welcome_text">Добро пожаловать!</string>
+    <string name="click_me">Нажми меня</string>
+    <string name="counter">Счетчик: %d</string>
+    <string name="name_hint">Введите имя</string>
+    <string name="email_hint">Введите email</string>
+    <string name="message_hint">Введите сообщение</string>
+    <string name="submit">Отправить</string>
+    <string name="retry">Повторить</string>
+    <string name="loading">Загрузка...</string>
+</resources>
